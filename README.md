@@ -1,6 +1,6 @@
 # 🏎️ Hill Climb Eye Racing: Computer Vision Game
 
-Project inovatif nirsentuh (touchless control) menggunakan gerakan mata (eye tracking) berbasis Computer Vision secara real-time. Game ini dikembangkan untuk memenuhi tugas Ujian Akhir Semester - Perancangan Big Data (4PDS1) di Universitas Bunda Mulia.
+Project inovatif nirsentuh (touchless control) menggunakan gerakan mata (eye tracking) berbasis Computer Vision secara real-time. Game ini dikembangkan untuk memenuhi tugas Ujian Akhir Semester - Machine Learning for Intelligence System (4PDS1) di Universitas Bunda Mulia.
 
 ## 👥 Kelompok Pengembangan (4PDS1)
 

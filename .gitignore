@@ -1,0 +1,19 @@
+# Abaikan Virtual Environment
+venv/
+.venv/
+env/
+
+# Abaikan Cache Python
+**/__pycache__/
+*.pyc
+
+# Abaikan file settingan editor
+.idea/
+.vscode/
+
+# TAMBAHKAN INI: Abaikan folder hasil build aplikasi (.exe)
+dist/
+build/
+*_internal/
+*.spec
+*.zip

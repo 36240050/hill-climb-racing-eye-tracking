@@ -2,7 +2,7 @@
 
 Project inovatif nirsentuh (touchless control) menggunakan gerakan mata (eye tracking) berbasis Computer Vision secara real-time. Game ini dikembangkan untuk memenuhi tugas Ujian Akhir Semester - Machine Learning for Intelligence System (4PDS1) di Universitas Bunda Mulia.
 
-## 👥 Kelompok Pengembangan (4PDS1)
+## 👥 Kelompok
 
 * Dosen Pengampu: Eko Wahyu Prasetyo, S.T., M.Eng
 * Anggota Kelompok:

@@ -69,12 +69,19 @@ MLIS (Root Project)
 ├── .gitignore                # File filter sampah Git
 └── README.md                 # Dokumentasi utama ini
 ```
-🎮 Cara Menjalankan Aplikasi
+
+## 🎮 Cara Menjalankan Aplikasi
+1. Menjalankan dari Source Code
 Pastikan semua library ter-install sesuai requirements.txt, lalu jalankan perintah:
 
 ```Bash
 python main.py
 ```
+
+2. Menjalankan Lewat Aplikasi Jadi (.exe)
+* Buka folder hill_climb_eye/HillClimbEyeRacing/HillClimbEyeRacing di komputer kamu.
+* Klik dua kali pada file HillClimbEyeRacing.exe.
+
 
 ## ⚠️ Kondisi Game Over
 * Permainan akan berakhir secara otomatis jika mendeteksi salah satu kondisi berikut:

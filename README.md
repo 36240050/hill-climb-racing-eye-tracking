@@ -17,11 +17,11 @@ Sistem kontrol pada game ini memanfaatkan kamera webcam untuk memetakan titik la
    * Kondisi: Nilai EAR > 0.30
    * Aksi: Di darat kendaraan berakselerasi maju; di udara badan mobil berotasi searah jarum jam (pitch up).
 
-2. State REM (Mata Sipit / Memejam):
+3. State REM (Mata Sipit / Memejam):
    * Kondisi: Nilai EAR < 0.22
    * Aksi: Di darat kendaraan mengerem aktif; di udara badan mobil berotasi berlawanan arah jarum jam (pitch down).
 
-3. State IDLE (Mata Normal):
+4. State IDLE (Mata Normal):
    * Kondisi: Nilai EAR antara 0.22 sampai 0.30
    * Aksi: Kendaraan berada dalam kondisi netral (kecepatan berkurang perlahan akibat gaya gesek).
 
@@ -77,10 +77,9 @@ Pastikan semua library ter-install sesuai requirements.txt, lalu jalankan perint
 ```Bash
 python main.py
 ```
-
 2. Menjalankan Lewat Aplikasi Jadi (.exe)
-* Buka folder hill_climb_eye/HillClimbEyeRacing/HillClimbEyeRacing di komputer kamu.
-* Klik dua kali pada file HillClimbEyeRacing.exe.
+   * Buka folder hill_climb_eye/HillClimbEyeRacing/HillClimbEyeRacing di komputer kamu.
+   * Klik dua kali pada file HillClimbEyeRacing.exe.
 
 ## ⚠️ Kondisi Game Over
 * Permainan akan berakhir secara otomatis jika mendeteksi salah satu kondisi berikut:

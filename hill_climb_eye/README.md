@@ -79,8 +79,8 @@ python main.py
 ```
 
 2. Menjalankan Lewat Aplikasi Jadi (.exe)
-* Buka folder hill_climb_eye/HillClimbEyeRacing/HillClimbEyeRacing di komputer kamu.
-* Klik dua kali pada file HillClimbEyeRacing.exe.
+   * Buka folder hill_climb_eye/HillClimbEyeRacing/HillClimbEyeRacing di komputer kamu.
+   * Klik dua kali pada file HillClimbEyeRacing.exe.
 
 
 ## ⚠️ Kondisi Game Over
